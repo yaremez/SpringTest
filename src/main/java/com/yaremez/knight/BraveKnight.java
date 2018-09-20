@@ -1,6 +1,6 @@
 package com.yaremez.knight;
 
-import com.yaremez.quest.Quest;
+import com.yaremez.knight.quest.Quest;
 
 public class BraveKnight implements Knight {
     private Quest quest;

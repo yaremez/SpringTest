@@ -1,4 +1,4 @@
-package com.yaremez;
+package com.yaremez.knight;
 
 import java.io.PrintStream;
 

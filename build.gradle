@@ -18,6 +18,8 @@ dependencies {
 
     testImplementation 'org.mockito:mockito-core:2.22.0'
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.3.1'
+    testImplementation 'org.springframework:spring-test:5.0.9.RELEASE'
+
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.3.1'
 }
 

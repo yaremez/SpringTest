@@ -1,7 +1,7 @@
 package com.yaremez;
 
 import com.yaremez.knight.BraveKnight;
-import com.yaremez.quest.Quest;
+import com.yaremez.knight.quest.Quest;
 import org.junit.jupiter.api.Test;
 import static org.mockito.Mockito.*;
 

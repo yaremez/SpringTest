@@ -1,8 +1,7 @@
-package com.yaremez;
+package com.yaremez.knight;
 
 import com.yaremez.knight.Knight;
-import org.springframework.context.support.
-        ClassPathXmlApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class KnightMain {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package com.yaremez.quest;
-
-import com.yaremez.quest.Quest;
+package com.yaremez.knight.quest;
 
 import java.io.PrintStream;
 

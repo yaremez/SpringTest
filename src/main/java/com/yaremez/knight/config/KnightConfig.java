@@ -1,9 +1,9 @@
-package com.yaremez.config;
+package com.yaremez.knight.config;
 
 import com.yaremez.knight.BraveKnight;
 import com.yaremez.knight.Knight;
-import com.yaremez.quest.Quest;
-import com.yaremez.quest.SlayDragonQuest;
+import com.yaremez.knight.quest.Quest;
+import com.yaremez.knight.quest.SlayDragonQuest;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

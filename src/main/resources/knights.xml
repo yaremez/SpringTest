@@ -8,11 +8,11 @@
         <constructor-arg ref="quest"/>
     </bean>
 
-    <bean id="quest" class="com.yaremez.quest.SlayDragonQuest">
+    <bean id="quest" class="com.yaremez.knight.quest.SlayDragonQuest">
         <constructor-arg value="#{T(System).out}"/>
     </bean>
 
-    <bean id="minstrel" class="com.yaremez.Minstrel">
+    <bean id="minstrel" class="com.yaremez.knight.Minstrel">
         <constructor-arg value="#{T(System).out}"/>
     </bean>
 
